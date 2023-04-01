@@ -33,8 +33,8 @@ public class GreetingResource {
         simpleDateFormat = new SimpleDateFormat(pattern);
         String stringNow = simpleDateFormat.format(new Date());
 
-        System.out.println("Aloha: " + cnt);
-        return "Aloha Quarkus " + cnt++ + " " + stringNow + " on " + HOSTNAME;
+        System.out.println("Burrsitis1: " + cnt);
+        return "Burrsitis1 Quarkus " + cnt++ + " " + stringNow + " on " + HOSTNAME;
     }
 
     @GET
