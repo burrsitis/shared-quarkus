@@ -7,5 +7,5 @@ docker run -i --rm -p 8080:8080 shared-quarkus
 
 curl localhost:8080
 
-Aloha Quarkus 1 12-24-2022 03:39:03 on e29c6975f9e3
+<some string> Quarkus 1 12-24-2022 03:39:03 on e29c6975f9e3
 ```
